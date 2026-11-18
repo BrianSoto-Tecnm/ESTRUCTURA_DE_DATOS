@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fibonacci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9e0655aaaf882b1b30d1f744ae8f1a73bdf1d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e63309e058c01f659fc9f2cc5c89f3943716bb13")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fibonacci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fibonacci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
