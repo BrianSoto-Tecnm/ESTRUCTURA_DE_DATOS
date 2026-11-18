@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Recursividad indirecta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f0de546a70cc790df546668b2f6f65d97f0fcd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf9eec3dc92a7616e2805626770ab55f738eb827")]
 [assembly: System.Reflection.AssemblyProductAttribute("Recursividad indirecta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Recursividad indirecta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto1_Sistema_ gestion_clinica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e91b458f7460f4c2e97819b70a1b970f767e71a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf9eec3dc92a7616e2805626770ab55f738eb827")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto1_Sistema_ gestion_clinica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto1_Sistema_ gestion_clinica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
