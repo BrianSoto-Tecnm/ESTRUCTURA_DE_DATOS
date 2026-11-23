@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\bin\Debug\net10.0\Proyecto9_Atencion_Bancaria.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\bin\Debug\net10.0\Proyecto9_Atencion_Bancaria.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\bin\Debug\net10.0\Proyecto9_Atencion_Bancaria.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\bin\Debug\net10.0\Proyecto9_Atencion_Bancaria.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\bin\Debug\net10.0\Proyecto9_Atencion_Bancaria.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\bin\Debug\net10.0\Proyecto9_Atencion_Bancaria.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.sourcelink.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\refint\Proyecto9_Atencion_Bancaria.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto9_Atencion_Bancaria.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\ref\Proyecto9_Atencion_Bancaria.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_Atencion_Bancaria\obj\Debug\net10.0\Proyecto.BBA1F42C.Up2Date

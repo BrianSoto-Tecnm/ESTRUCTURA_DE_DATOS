@@ -1,7 +1,0 @@
-C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto6_Admin_Tareas\bin\Debug\Proyecto6_Admin_Tareas.exe.config
-C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto6_Admin_Tareas\bin\Debug\Proyecto6_Admin_Tareas.exe
-C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto6_Admin_Tareas\bin\Debug\Proyecto6_Admin_Tareas.pdb
-C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto6_Admin_Tareas\obj\Debug\Proyecto6_Admin_Tareas.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto6_Admin_Tareas\obj\Debug\Proyecto6_Admin_Tareas.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto6_Admin_Tareas\obj\Debug\Proyecto6_Admin_Tareas.exe
-C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto6_Admin_Tareas\obj\Debug\Proyecto6_Admin_Tareas.pdb

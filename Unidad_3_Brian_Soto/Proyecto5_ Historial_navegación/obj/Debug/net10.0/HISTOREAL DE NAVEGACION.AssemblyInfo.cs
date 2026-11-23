@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HISTOREAL DE NAVEGACION")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e63309e058c01f659fc9f2cc5c89f3943716bb13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c60c3e5a1b55364f718fd6b0ba2cae05ab40fc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HISTOREAL DE NAVEGACION")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HISTOREAL DE NAVEGACION")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

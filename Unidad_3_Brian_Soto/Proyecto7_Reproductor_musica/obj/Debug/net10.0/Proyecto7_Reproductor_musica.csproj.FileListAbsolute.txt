@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\bin\Debug\net10.0\Proyecto7_Reproductor_musica.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\bin\Debug\net10.0\Proyecto7_Reproductor_musica.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\bin\Debug\net10.0\Proyecto7_Reproductor_musica.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\bin\Debug\net10.0\Proyecto7_Reproductor_musica.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\bin\Debug\net10.0\Proyecto7_Reproductor_musica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\bin\Debug\net10.0\Proyecto7_Reproductor_musica.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.sourcelink.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\refint\Proyecto7_Reproductor_musica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto7_Reproductor_musica.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\ref\Proyecto7_Reproductor_musica.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto7_Reproductor_musica\obj\Debug\net10.0\Proyecto.4EA9FF71.Up2Date
