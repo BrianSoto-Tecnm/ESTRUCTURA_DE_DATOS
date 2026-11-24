@@ -17,6 +17,11 @@ namespace Proyecto7_Musica
             Nombre = nombre;
             Artista = artista;
         }
+
+        public override string ToString()
+        {
+            return $"{Nombre} - {Artista}";
+        }
     }
     
 

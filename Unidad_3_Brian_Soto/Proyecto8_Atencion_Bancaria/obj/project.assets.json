@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto9_Atencion_Bancaria\\Proyecto9_Atencion_Bancaria.csproj",
+      "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto8_Atencion_Bancaria\\Proyecto9_Atencion_Bancaria.csproj",
       "projectName": "Proyecto9_Atencion_Bancaria",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto9_Atencion_Bancaria\\Proyecto9_Atencion_Bancaria.csproj",
+      "projectPath": "c:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto8_Atencion_Bancaria\\Proyecto9_Atencion_Bancaria.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto9_Atencion_Bancaria\\obj\\",
+      "outputPath": "c:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto8_Atencion_Bancaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
