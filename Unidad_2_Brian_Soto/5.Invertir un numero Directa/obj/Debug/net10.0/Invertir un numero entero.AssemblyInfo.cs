@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Invertir un numero entero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a27e5e6a7b1242224b231291664917ac72f50e07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b385480855e2ea193eaab9d505293b80e52808d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Invertir un numero entero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Invertir un numero entero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
