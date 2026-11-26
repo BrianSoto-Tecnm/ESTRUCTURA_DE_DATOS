@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto10\\Proyecto10.csproj",
-      "projectName": "Proyecto10",
-      "projectPath": "c:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto10\\Proyecto10.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto9_control_sistema_operativo\\Proyecto9.csproj",
+      "projectName": "Proyecto9",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto9_control_sistema_operativo\\Proyecto9.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto10\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\TECNOLOGICO TRABAJOS\\Programas\\Unidad_3_Brian_Soto\\Proyecto9_control_sistema_operativo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
