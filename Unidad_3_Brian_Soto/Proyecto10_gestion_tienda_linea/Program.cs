@@ -1,8 +1,17 @@
 ﻿// ==================================================================
 // PROYECTO 10. SISTEMA DE GESTION DE PEDIDOS DE UNA TIENDA EN LINEA
-// Menu con las funciones principales: registrar, buscar y eliminar
-// producto; registrar, cancelar, procesar y atender pedidos; mostrar
-// pendientes, historial, cliente y estadisticas.
+// Sistema que administra pedidos utilizando diferentes estructuras
+// lineales. Estructuras: lista enlazada para productos, cola para
+// pedidos pendientes, cola de prioridad para pedidos urgentes y
+// pila para historial de operaciones.
+// Producto: ID, nombre, precio, existencias y categoria.
+// Pedido: Numero, cliente, fecha, productos, total, prioridad y
+// estado.
+// Funciones principales: registrar producto, buscar producto,
+// eliminar producto, registrar pedido, cancelar pedido, procesar
+// pedido, atender pedido urgente, mostrar pedidos pendientes,
+// mostrar historial, consultar inventario, buscar cliente y mostrar
+// estadisticas.
 // ==================================================================
 using System;
 using System.Collections.Generic;

@@ -1,3 +1,11 @@
+// ==================================================================
+// PROYECTO 7. SISTEMA DE REPRODUCCION DE MUSICA
+// Lista doblemente enlazada y lista circular. Crear un repositorio
+// musical simulado, con las funciones: agregar cancion, eliminar
+// cancion, buscar cancion, reproducir, siguiente, anterior, pausar,
+// mostrar playlist, crear playlist y reproduccion circular.
+// Lista doble: Cancion A <-> Cancion B <-> Cancion C <-> Cancion D
+// ==================================================================
 using System;
 
 namespace Proyecto7_Musica

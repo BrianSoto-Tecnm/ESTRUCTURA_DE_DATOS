@@ -1,7 +1,16 @@
 ﻿// ==================================================================
 // PROYECTO 9. SISTEMA DE CONTROL DE PROCESOS DE UN SISTEMA OPERATIVO
-// Menu con las funciones: crear, eliminar, ejecutar, bloquear,
-// desbloquear, mostrar, buscar y administrar la cola de procesos.
+// Este proyecto permite relacionar Estructuras de Datos con Sistemas
+// Operativos, ya que los sistemas operativos requieren estructuras
+// de datos para manejar diferentes procesos. Cada proceso tendra:
+// PID, nombre, prioridad, estado y tiempo de ejecucion.
+// Estados: NUEVO, LISTO, EJECUTANDO, BLOQUEADO y TERMINADO.
+// Funciones: crear proceso, eliminar proceso, ejecutar proceso,
+// bloquear proceso, desbloquear proceso, mostrar procesos, buscar
+// proceso y administrar cola de procesos.
+// Ejemplo: Cola de procesos: P01 -> P02 -> P03 -> P04
+// El proyecto puede posteriormente ampliarse con algoritmos de
+// planificacion.
 // ==================================================================
 using System;
 using Proyecto9_SO;

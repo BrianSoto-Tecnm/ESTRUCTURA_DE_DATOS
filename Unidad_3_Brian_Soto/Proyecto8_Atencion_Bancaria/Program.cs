@@ -1,3 +1,12 @@
+// ==================================================================
+// PROYECTO 8. SIMULADOR DE ATENCION BANCARIA
+// Tipos de clientes: cliente normal, cliente preferente, adulto
+// mayor y persona con prioridad.
+// Funciones: generar turno, atender cliente, cancelar turno,
+// mostrar clientes esperando, mostrar clientes atendidos, agregar
+// prioridad, mostrar tiempo estimado y mostrar numero de clientes
+// en espera.
+// ==================================================================
 using System;
 
 namespace Proyecto8_Banco
