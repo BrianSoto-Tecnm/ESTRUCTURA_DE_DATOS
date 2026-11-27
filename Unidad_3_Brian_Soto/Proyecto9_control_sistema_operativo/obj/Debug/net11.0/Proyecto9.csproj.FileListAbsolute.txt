@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\bin\Debug\net11.0\Proyecto9.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\bin\Debug\net11.0\Proyecto9.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\bin\Debug\net11.0\Proyecto9.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\bin\Debug\net11.0\Proyecto9.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\bin\Debug\net11.0\Proyecto9.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\bin\Debug\net11.0\Proyecto9.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.sourcelink.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\refint\Proyecto9.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\ref\Proyecto9.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto9_control_sistema_operativo\obj\Debug\net11.0\Proyecto9.csproj.Up2Date

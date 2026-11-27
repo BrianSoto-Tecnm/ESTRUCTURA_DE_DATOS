@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\bin\Debug\net11.0\Proyecto10.exe
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\bin\Debug\net11.0\Proyecto10.deps.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\bin\Debug\net11.0\Proyecto10.runtimeconfig.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\bin\Debug\net11.0\Proyecto10.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\bin\Debug\net11.0\Proyecto10.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\bin\Debug\net11.0\Proyecto10.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.sourcelink.json
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\refint\Proyecto10.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.pdb
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\ref\Proyecto10.dll
+C:\Users\Usuario\Desktop\TECNOLOGICO TRABAJOS\Programas\Unidad_3_Brian_Soto\Proyecto10_gestion_tienda_linea\obj\Debug\net11.0\Proyecto10.csproj.Up2Date
